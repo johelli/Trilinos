@@ -73,5 +73,8 @@
 /* define if we set Enable_MACHINE_DRAGONFLY:BOOL=ON */
 #cmakedefine ZOLTAN2_MACHINE_DRAGONFLY
 
+/* define if we set Enable_MACHINE_FATTREE:BOOL=ON */
+#cmakedefine ZOLTAN2_MACHINE_FATTREE
+
 /* define if we set Enable_MACHINE_TORUS:BOOL=ON */
 #cmakedefine ZOLTAN2_MACHINE_TORUS
